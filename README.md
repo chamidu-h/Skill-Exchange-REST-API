@@ -27,6 +27,7 @@ To run this project locally, follow these steps:
    - Navigate to the Master Branch to access the source code
 3. **Build the project**
 4. **Run the application**
+   - Run DemoApplication.java
 5. **Access H2 Database and connect**
    - The API will be available at http://localhost:8080/h2-console
    - Credentials
