@@ -24,15 +24,16 @@ To run this project locally, follow these steps:
 
 ### Steps
 1. **Clone the repository**
-2. **Build the project**
-3. **Run the application**
-4. **Access H2 Database and connect**
+   - Navigate to the Master Branch to access the source code
+3. **Build the project**
+4. **Run the application**
+5. **Access H2 Database and connect**
    - The API will be available at http://localhost:8080/h2-console
    - Credentials
      Username "sa"
      Password "password"
      JDBC URL "jdbc:h2:mem:testdb"
-5. **Access the API**
+6. **Access the API**
    - The API will be available at `http://localhost:8080/`
 
 ## API Endpoints
